@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sathish",
+      "email": "sathish@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "kesavareddy",
+      "email": "kesava@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "B.padmavathi",
+      "email": "padu@gmai.com",
+      "id": 7
+    },
+    {
+      "name": "sivajyothi",
+      "email": "sj@gmailcom",
+      "id": 8
+    },
+    {
+      "name": "B.madhavi",
+      "email": "madhavi@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "B.mounika",
+      "email": "mouni@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "jyothi",
+      "email": "jyothi@gmail.com",
+      "id": 12
+    }
+  ]
+}
